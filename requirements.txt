@@ -2,3 +2,5 @@ https://github.com/New-dev0/Telethon/archive/Artifact.zip
 python-decouple
 aioredis
 hiredis
+flask
+flask_restful
